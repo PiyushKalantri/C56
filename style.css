@@ -1,0 +1,34 @@
+body {
+    background-color: antiquewhite;
+    align-content: center;
+}
+
+h1 {
+    justify-content: center
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+
+}
+
+.section-style {
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: white;
+}
+
+.OIP {
+    height: 380px;
+    width: 585px;
+}
+
+.TREEP {
+    height: 380px;
+    width: 585px;
+}
